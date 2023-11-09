@@ -40,7 +40,10 @@ To create a 3D model from given orthographic projection.
 ## INPUT:
 ![image](https://user-images.githubusercontent.com/113594316/198551872-276f8b80-bea8-4d4a-b2e8-bfdcd1e9d3cc.png)
 
-## OUTPUT:![image](https://github.com/PRAJAN-23013995/EX.-No.-3.1.-CREATE-3D-MODEL-FROM-ORTHOGRAPHIC-PROJECTION/assets/150313345/6aa0d078-cc7e-42e7-97ab-4ef1a5636222)
+## OUTPUT:
+
+![image](https://github.com/PRAJAN-23013995/EX.-No.-3.1.-CREATE-3D-MODEL-FROM-ORTHOGRAPHIC-PROJECTION/assets/150313345/b4db63a0-b73f-4bce-9592-f5b634deb270)
+
 
 
 ## RESULT:
